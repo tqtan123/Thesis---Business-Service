@@ -1,8 +1,8 @@
 // API 代理 Worker
 const API_ROUTES = {
-  "/api/gemini": "http://35.244.85.126/gemini",
-  "/api/sentiment": "http://35.201.16.112/topic",
-  "/api/trend": "http://35.244.85.126/trend"
+  "/api/gemini": "https://backend-529824727138.asia-southeast1.run.app/gemini",
+  "/api/sentiment": "https://backend-529824727138.asia-southeast1.run.app/topic",
+  "/api/trend": "https://backend-529824727138.asia-southeast1.run.app/trend"
 };
 
 export default {
